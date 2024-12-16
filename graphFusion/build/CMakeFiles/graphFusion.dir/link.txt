@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/graphFusion.dir/GraphFusion.cpp.o CMakeFiles/graphFusion.dir/test.cpp.o -o graphFusion
